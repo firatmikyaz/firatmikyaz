@@ -17,7 +17,7 @@ const mikyaz = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, C#, .Net &| Core, SQL, Java],
   tools: [Postman, Swagger, Git, VisualStudio &| Code, Eclipse],
-  architecture: ["monolith", "microservices", "test-driven"],
+  architecture: ["monolith", "microservices"],
   joinedTop3Events : {
                       participant1 : "patika.dev",
                       participant2 : "kodlama.io",                     
