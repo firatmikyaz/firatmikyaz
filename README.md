@@ -8,7 +8,6 @@
  
 [![Linkedin: firatmikyaz](https://img.shields.io/badge/-firatmikyaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firat-mikyaz-2b99b0109/)](https://www.linkedin.com/in/firatmikyaz//)
   
-
 ### A little more about me...  
 
 <br>
@@ -28,11 +27,8 @@ const mikyaz = {
   nextStacks: [Reactjs, Vuejs]
 }
 ```
-
 <br />
-
-
-
+<br />
 
 ### Teach out to me
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" aling="left" width="25" height="25">
@@ -47,7 +43,8 @@ const mikyaz = {
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" aling="left" width="25" height="25">
 
-<br>
+<br />
+<br />
 
 <details>
 <summary>:bulb: Github Stats</summary>
@@ -55,7 +52,8 @@ const mikyaz = {
 </details>
 
 <br />
-
+<br />
+ 
 <details>
 <summary>:bulb: Most Use Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatmikyaz&layout=compact">
