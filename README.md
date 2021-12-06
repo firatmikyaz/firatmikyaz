@@ -1,12 +1,12 @@
-<img src="https://media.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif?cid=ecf05e478say5qkpx5j2ll9f5x7e0c0i9q2ll2ovsugle3f2&rid=giphy.gif&ct=s" aling="right" width="350" height="200">
-
 ## Hello, I'm Fırat,
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="411">
 
 <p><em>Software Developer in <a href="https://www.google.com/maps/place/%C4%B0stanbul/@41.0052363,28.871753,11z/data=!3m1!4b1!4m5!3m4!1s0x14caa7040068086b:0xe1ccfe98bc01b0d0!8m2!3d41.0082376!4d28.9783589" target"_blank">Istanbul</a>
 
 ## Jr.Full Stack Developer
  
-[![Linkedin: firatmikyaz](https://img.shields.io/badge/-firatmikyaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firat-mikyaz-2b99b0109/)](https://www.linkedin.com/in/firatmikyaz//)
+[![Linkedin: firatmikyaz](https://img.shields.io/badge/-firatmikyaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/firat-mikyaz-2b99b0109/)](https://www.linkedin.com/in/firatmikyaz//)
   
 ### A little more about me...  
 
