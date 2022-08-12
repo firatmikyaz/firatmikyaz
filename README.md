@@ -1,68 +1,47 @@
-<h1 align="center">Hi 👋, I'm Fırat,</h1>
+<h1 align="center">Hi 👋, I'm Fırat Mikyaz</h1>
+<h3 align="center">Junior Software Developer 💻 </h3>
+<p align="center"><img align="center" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="" class="skills__img" /> </p>
 
-<p align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="411"></p>
+<!-- - 🔭 I’m currently working on **market_projesi** -->
 
-<p><em>Software Developer in <a href="https://www.google.com/maps/place/%C4%B0stanbul/@41.0052363,28.871753,11z/data=!3m1!4b1!4m5!3m4!1s0x14caa7040068086b:0xe1ccfe98bc01b0d0!8m2!3d41.0082376!4d28.9783589" target"_blank">Istanbul</a>
+- 🌱 I’m currently learning **JavaScript, Angular, React**
 
-## Jr.Full Stack Developer
+- 📫 How to reach me **firat.mikyaz.tr@gmail.com**
 
-### Reach out to me 
+<p align="left">
+  <a href="linkedin.com/in/firatmikyaz/" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="firat-mikyaz" width="40" height="30" align="center" />
+  </a>
+</p>
+<p align="left"></p>
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
+<!-- Languages and Tools: -->
+<p align="left"></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://html.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js" width="40"          height="40" />
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" width="40"                height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+  </a>
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="mongodb" width="40"     height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+  </a> 
+</p>
 
-<br><br> 
- 
-### A little more about me...  
-
-<br>
-
-```javascript
-const mikyaz = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, C#, .Net &| Core, SQL, Java],
-  tools: [Postman, Swagger, Git, VisualStudio &| Code, Eclipse],
-  architecture: ["monolith", "microservices"],
-  joinedTop3Events : {
-                      participant1 : "patika.dev",
-                      participant2 : "kodlama.io",                     
-                     },                    
-  training: [.Net Core, Javascript],
-  readings: [Clean Code - Robert C. Martin, Refactoring - Martin Fowler],
-  nextStacks: [Reactjs, Vuejs]
-}
-```
-<br />
- 
-### Teach out to me
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" aling="left" width="25" height="25">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" aling="left" width="25" height="25">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" aling="left" width="25" height="25">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" aling="left" width="25" height="25">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" aling="left" width="25" height="25">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" aling="left" width="25" height="25">
-
-<br />
-<br />
-
-<details>
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=firatmikyaz&theme=tokyonight">
-</details>
-
-<br />
-<br />
- 
-<details>
-<summary>:bulb: Most Use Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatmikyaz&layout=compact">
-</details>
-
-[linkedin]: https://www.linkedin.com/in/firat-mikyaz-2b99b0109/
-[instagram]: https://www.instagram.com/frtmkyz/?hl=tr
- 
+![snake svg](https://github.com/marufakan/marufakan/blob/output/github-contribution-grid-snake.svg)
