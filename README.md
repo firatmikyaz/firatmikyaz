@@ -1,6 +1,6 @@
 ## Hello, I'm Fırat,
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="411">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" style="justify-items: center;" width="411">
 
 <p><em>Software Developer in <a href="https://www.google.com/maps/place/%C4%B0stanbul/@41.0052363,28.871753,11z/data=!3m1!4b1!4m5!3m4!1s0x14caa7040068086b:0xe1ccfe98bc01b0d0!8m2!3d41.0082376!4d28.9783589" target"_blank">Istanbul</a>
 
