@@ -44,4 +44,6 @@
   </a> 
 </p>
 
-![snake svg](https://github.com/firatmikyaz/firatmikyaz/blob/output/github-contribution-grid-snake.svg)
+<h3 align="left">Snake eating my contribution graph</h3>
+
+![snake gif](https://github.com/firatmikyaz/firatmikyaz/blob/output/github-contribution-grid-snake.gif)
