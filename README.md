@@ -9,7 +9,7 @@
 - 📫 How to reach me **firat.mikyaz.tr@gmail.com**
 
 <p align="left">
-  <a href="linkedin.com/in/firatmikyaz/" target="blank">
+  <a href="[linkedin.com/in/firatmikyaz/](https://www.linkedin.com/in/firatmikyaz/)" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="firat-mikyaz" width="40" height="30" align="center" />
   </a>
 </p>
