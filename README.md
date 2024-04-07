@@ -14,15 +14,19 @@
 <a href="https://www.youtube.com/channel/UCa5MS9k48gqNwdAuJMx8oKg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coderfirat" height="30" width="40" /></a>
 </p>
 
-<!-- YOUTUBE:START -->
-<h3 align="left">My Youtube Channel interested Coding:</h3>
 
-- [React | JavaScript : Template Literals](https://www.youtube.com/watch?v=CdXsgcs94Hg&t=404s)
-- [React | JavaScript : Rest / Spread Operator](https://www.youtube.com/watch?v=xV2mVBXtKug&t=352s)
-- [React | JavaScript : Destructuring Objects and Arrays](https://www.youtube.com/watch?v=zRnnXzcSMC4&t=352s)
-- [React : Props Kullanarak Profil Card Yapısını Oluşturma](https://www.youtube.com/watch?v=f9_JXcmJ1aU&t=1270s)
-
-<!-- YOUTUBE:END -->
+<h3 align="left">Latest Youtube Videos:</h3>
+<table>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=b18fYAj-ZeE"><img width="140px" src="https://i.ytimg.com/vi/b18fYAj-ZeE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=b18fYAj-ZeE">Reviewing your Open Source Repos + Profiles</a> (Apr 6, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=eZU-CzD0QcQ"><img width="140px" src="https://i.ytimg.com/vi/eZU-CzD0QcQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=eZU-CzD0QcQ">No more BUGS 🐛</a> (Apr 3, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=evaCbGuwDQ0"><img width="140px" src="https://i.ytimg.com/vi/evaCbGuwDQ0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=evaCbGuwDQ0">Tripadvisor for Open Source GitHub Repos</a> (Apr 3, 2024)<br/></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=wGtWYDXeUyI"><img width="140px" src="https://i.ytimg.com/vi/wGtWYDXeUyI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wGtWYDXeUyI">Don’t rely on ChatGPT #AI</a> (Apr 2, 2024)<br/></td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
