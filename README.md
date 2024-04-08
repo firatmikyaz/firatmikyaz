@@ -14,8 +14,8 @@
 <a href="https://www.youtube.com/channel/UCa5MS9k48gqNwdAuJMx8oKg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coderfirat" height="30" width="40" /></a>
 </p>
 
+### Latest Youtube Videos
 
-<h3 align="left">Latest Youtube Videos:</h3>
 <!-- YOUTUBE:START -->
 - [React | JavaScript : Template Literals](https://www.youtube.com/watch?v=CdXsgcs94Hg)
 - [React | JavaScript : Rest / Spread Operator](https://www.youtube.com/watch?v=xV2mVBXtKug)
