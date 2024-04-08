@@ -16,9 +16,6 @@
 
 
 <h3 align="left">Latest Youtube Videos:</h3>
-
-## Latest Youtube Videos
-
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
