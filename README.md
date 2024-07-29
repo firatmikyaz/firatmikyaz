@@ -17,11 +17,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Text Elementleri ve Başlıkların Kullanımı](https://www.youtube.com/watch?v=StzCzRCNdmM)
 - [HTML Yapısı &amp; HTML Document Structure](https://www.youtube.com/watch?v=7-WwTfMRmQo)
 - [React | JavaScript : Template Literals](https://www.youtube.com/watch?v=CdXsgcs94Hg)
 - [React | JavaScript : Rest / Spread Operator](https://www.youtube.com/watch?v=xV2mVBXtKug)
 - [React | JavaScript : Destructuring Objects and Arrays](https://www.youtube.com/watch?v=zRnnXzcSMC4)
-- [React : Props Kullanarak Profil Card Yapısını Oluşturma](https://www.youtube.com/watch?v=f9_JXcmJ1aU)
 <!-- YOUTUBE:END -->
 
 
