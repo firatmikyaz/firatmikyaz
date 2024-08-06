@@ -17,11 +17,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [HyperLinks | Linkler](https://www.youtube.com/watch?v=olfLlFmF07w)
 - [Images and Attributes | Resimler ve Özellikler](https://www.youtube.com/watch?v=i2AUxUzdyK0)
 - [Listeler ve Liste Elemanları](https://www.youtube.com/watch?v=H-GY7TjRXhA)
 - [Text Elementleri ve Başlıkların Kullanımı](https://www.youtube.com/watch?v=StzCzRCNdmM)
 - [HTML Yapısı &amp; HTML Document Structure](https://www.youtube.com/watch?v=7-WwTfMRmQo)
-- [React | JavaScript : Template Literals](https://www.youtube.com/watch?v=CdXsgcs94Hg)
 <!-- YOUTUBE:END -->
 
 
