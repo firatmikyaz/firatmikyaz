@@ -17,11 +17,11 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Minimal Product Cart Detail | Html ile Minimal Cart Yapımı](https://www.youtube.com/watch?v=FP7caeMlw0k)
 - [Finally HTML Page | Completing HTML Mini Project](https://www.youtube.com/watch?v=G_HZrZAXwCQ)
 - [HyperLinks | Linkler](https://www.youtube.com/watch?v=olfLlFmF07w)
 - [Images and Attributes | Resimler ve Özellikler](https://www.youtube.com/watch?v=i2AUxUzdyK0)
 - [Listeler ve Liste Elemanları](https://www.youtube.com/watch?v=H-GY7TjRXhA)
-- [Text Elementleri ve Başlıkların Kullanımı](https://www.youtube.com/watch?v=StzCzRCNdmM)
 <!-- YOUTUBE:END -->
 
 
